@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sqlite-expo-complete-example",
+    "slug": "sqlite-expo-complete-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
